@@ -55,4 +55,4 @@ Detailed documentation can be found in the `docs` folder. This includes user gui
 
 ---
 
-This README provides a comprehensive overview of your repository, covering each of the four main projects, their features, and instructions on how to use and test them. Adjust the details as needed to fit your specific repository and ensure all links (e.g., `CONTRIBUTING.md`, `LICENSE`) are accurate.
+This README provides a comprehensive overview of your repository, covering each of the four main projects, their features, and instructions on how to use and test them.
