@@ -83,6 +83,6 @@ Accepted
 2. Navigate to the directory containing the script.
 3. Run the script using a Python interpreter.
    ```sh
-   python finite_automata.py
+   python Accept-string-in-finiteAutomata.py
    ```
 4. Follow the prompts to enter the states, alphabet, final states, number of transitions, transitions, and the input string.
