@@ -1,5 +1,3 @@
-Certainly! Here's a detailed README documentation for your grammar processing project:
-
 ---
 
 # Grammar Acceptance Checker
@@ -111,16 +109,6 @@ The output will be:
 
 ```plaintext
 Rejected
-```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
 ---
 
 This README provides a comprehensive overview of the project, explaining how to use it, the input/output formats, and an example usage scenario.
