@@ -109,6 +109,3 @@ The output will be:
 
 ```plaintext
 Rejected
----
-
-This README provides a comprehensive overview of the project, explaining how to use it, the input/output formats, and an example usage scenario.
