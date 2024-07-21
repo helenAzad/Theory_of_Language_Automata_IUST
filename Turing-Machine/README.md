@@ -1,5 +1,3 @@
-Sure! Here’s a README file tailored for your Turing Machine simulator project. This documentation explains the purpose of the script, how to run it, and provides some sample input and output.
-
 ---
 
 # Turing Machine Simulator
@@ -72,7 +70,7 @@ python turing_machine_simulator.py
 
 ### Example Run
 ```sh
-$ python turing_machine_simulator.py
+$ python Turing.py
 101101011011001010110101
 3
 11011011
