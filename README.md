@@ -1,4 +1,3 @@
-Sure, given the names of your folders, here is a README file for your TLA (Theory of Language Automata) repository:
 
 ---
 
